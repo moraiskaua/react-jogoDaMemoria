@@ -11,4 +11,4 @@ Projeto desenvolvido utilizando React + Typescript durante o curso [B7Web](https
 
 ### Rodar:
 
-- `npm start`
+- `npm run dev`
